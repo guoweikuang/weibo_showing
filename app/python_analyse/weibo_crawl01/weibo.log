@@ -1,0 +1,103 @@
+2017-03-26 04:05:15 PM : ['http://weibo.cn/comment/EByIOctqc?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EByam3wOn?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBy8O32rd?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBy6TwaYx?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBxBgEFiS?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBxqLEjBm?uid=1844617613&rl=0&vt=4#cmtfrm']
+2017-03-26 04:05:16 PM : ['http://weibo.cn/comment/EBzPFbecn?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBzM2xVFz?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBzLe4G7d?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBzHRqU6U?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBzC8wJ9d?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBzw1pM6s?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBztvqa52?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBzaD1wm7?uid=1844617613&rl=0&vt=4#cmtfrm']
+2017-03-26 04:05:16 PM : ['http://weibo.cn/comment/EyqR5fGJm?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBAgWgOO5?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBAeMF566?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBzW3aC9s?uid=1844617613&rl=0&vt=4#cmtfrm']
+2017-03-26 04:05:16 PM : "GET /gzyhl?page=4&vt=4 HTTP/1.1" 200 4406
+2017-03-26 04:05:16 PM : ['http://weibo.cn/comment/EBxgZDkiG?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBtRJEFeT?rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBxcK4LSR?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBuDzd17H?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBunjyDt7?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBuiY4ots?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBudXv8Vr?uid=1844617613&rl=0&vt=4#cmtfrm', 'http://weibo.cn/comment/EBu9enb9u?uid=1844617613&rl=0&vt=4#cmtfrm']
+2017-03-26 04:05:18 PM : Starting new HTTP connection (1): weibo.cn
+2017-03-26 04:05:18 PM : Starting new HTTP connection (2): weibo.cn
+2017-03-26 04:05:18 PM : Starting new HTTP connection (3): weibo.cn
+2017-03-26 04:05:18 PM : Starting new HTTP connection (4): weibo.cn
+2017-03-26 04:05:22 PM : "GET /comment/EyqR5fGJm?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 4445
+2017-03-26 04:05:22 PM : "GET /comment/EBxgZDkiG?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2733
+2017-03-26 04:05:22 PM : "GET /comment/EBzPFbecn?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2391
+2017-03-26 04:05:22 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:22 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:23 PM : "GET /comment/EByIOctqc?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2586
+2017-03-26 04:05:23 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:23 PM : "GET /comment/EBzPFbecn?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2386
+2017-03-26 04:05:23 PM : "GET /comment/EBxgZDkiG?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2731
+2017-03-26 04:05:23 PM : "GET /comment/EByIOctqc?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2585
+2017-03-26 04:05:23 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:24 PM : "GET /comment/EyqR5fGJm?uid=1844617613&rl=0&vt=4&page=2 HTTP/1.1" 200 3836
+2017-03-26 04:05:25 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:25 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:25 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:26 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:26 PM : "GET /comment/EBtRJEFeT?rl=0&vt=4&page=1 HTTP/1.1" 200 2616
+2017-03-26 04:05:26 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:26 PM : "GET /comment/EBzM2xVFz?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2791
+2017-03-26 04:05:26 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:26 PM : "GET /comment/EyqR5fGJm?uid=1844617613&rl=0&vt=4&page=3 HTTP/1.1" 200 4110
+2017-03-26 04:05:26 PM : "GET /comment/EBtRJEFeT?rl=0&vt=4 HTTP/1.1" 200 2611
+2017-03-26 04:05:26 PM : "GET /comment/EByam3wOn?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 4496
+2017-03-26 04:05:26 PM : "GET /comment/EBzM2xVFz?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2789
+2017-03-26 04:05:27 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:28 PM : "GET /comment/EyqR5fGJm?uid=1844617613&rl=0&vt=4&page=4 HTTP/1.1" 200 3493
+2017-03-26 04:05:28 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:29 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:29 PM : "GET /comment/EByam3wOn?uid=1844617613&rl=0&vt=4&page=2 HTTP/1.1" 200 4267
+2017-03-26 04:05:29 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:29 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:30 PM : "GET /comment/EBxcK4LSR?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2914
+2017-03-26 04:05:30 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:30 PM : "GET /comment/EBzLe4G7d?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2592
+2017-03-26 04:05:30 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:31 PM : "GET /comment/EBxcK4LSR?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2825
+2017-03-26 04:05:31 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:31 PM : "GET /comment/EByam3wOn?uid=1844617613&rl=0&vt=4&page=3 HTTP/1.1" 200 3743
+2017-03-26 04:05:33 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:33 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:34 PM : "GET /comment/EByam3wOn?uid=1844617613&rl=0&vt=4&page=4 HTTP/1.1" 200 4122
+2017-03-26 04:05:34 PM : "GET /comment/EyqR5fGJm?uid=1844617613&rl=0&vt=4&page=5 HTTP/1.1" 200 2325
+2017-03-26 04:05:34 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:35 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:35 PM : "GET /comment/EyqR5fGJm?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 4456
+2017-03-26 04:05:35 PM : "GET /comment/EBzLe4G7d?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2592
+2017-03-26 04:05:36 PM : "GET /comment/EBuDzd17H?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2345
+2017-03-26 04:05:36 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:38 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:38 PM : "GET /comment/EByam3wOn?uid=1844617613&rl=0&vt=4&page=5 HTTP/1.1" 200 3944
+2017-03-26 04:05:38 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:39 PM : "GET /comment/EBuDzd17H?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2341
+2017-03-26 04:05:39 PM : "GET /comment/EBAgWgOO5?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2491
+2017-03-26 04:05:39 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:39 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:40 PM : "GET /comment/EBzHRqU6U?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2380
+2017-03-26 04:05:40 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:41 PM : "GET /comment/EBzHRqU6U?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2378
+2017-03-26 04:05:42 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:43 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:43 PM : "GET /comment/EBzC8wJ9d?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 3514
+2017-03-26 04:05:43 PM : "GET /comment/EBunjyDt7?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2421
+2017-03-26 04:05:43 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:43 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:44 PM : "GET /comment/EBunjyDt7?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2416
+2017-03-26 04:05:44 PM : "GET /comment/EBAgWgOO5?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2490
+2017-03-26 04:05:44 PM : "GET /comment/EBzC8wJ9d?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 3514
+2017-03-26 04:05:46 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:46 PM : "GET /comment/EBAeMF566?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2443
+2017-03-26 04:05:46 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:47 PM : "GET /comment/EByam3wOn?uid=1844617613&rl=0&vt=4&page=6 HTTP/1.1" 200 3926
+2017-03-26 04:05:47 PM : "GET /comment/EBAeMF566?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2440
+2017-03-26 04:05:47 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:48 PM : "GET /comment/EBzw1pM6s?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 3377
+2017-03-26 04:05:49 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:49 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:49 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:49 PM : "GET /comment/EByam3wOn?uid=1844617613&rl=0&vt=4&page=7 HTTP/1.1" 200 3323
+2017-03-26 04:05:49 PM : "GET /comment/EBzw1pM6s?uid=1844617613&rl=0&vt=4&page=2 HTTP/1.1" 200 2372
+2017-03-26 04:05:49 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:49 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:49 PM : "GET /comment/EBzW3aC9s?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2379
+2017-03-26 04:05:49 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:50 PM : "GET /comment/EByam3wOn?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 4661
+2017-03-26 04:05:50 PM : "GET /comment/EBzw1pM6s?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 3375
+2017-03-26 04:05:50 PM : "GET /comment/EBzW3aC9s?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2377
+2017-03-26 04:05:53 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:54 PM : "GET /comment/EBztvqa52?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2707
+2017-03-26 04:05:54 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:54 PM : "GET /comment/EBztvqa52?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2702
+2017-03-26 04:05:56 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:57 PM : "GET /comment/EBzaD1wm7?uid=1844617613&rl=0&vt=4&page=1 HTTP/1.1" 200 2834
+2017-03-26 04:05:57 PM : Resetting dropped connection: weibo.cn
+2017-03-26 04:05:58 PM : "GET /comment/EBzaD1wm7?uid=1844617613&rl=0&vt=4 HTTP/1.1" 200 2833
